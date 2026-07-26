@@ -130,7 +130,7 @@ Through this project, I gained practical experience in:
 
 B.Tech CSE Student
 
-GitHub: *https://github.com/*
+GitHub: *https://github.com/JeetAtWork*
 
 LinkedIn: *https://www.linkedin.com/in/somyajeet-satapathy-602848420/*
 
